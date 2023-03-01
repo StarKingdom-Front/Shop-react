@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://StarKingdom-Front.github.io/Shop-react
+show: ![image](https://user-images.githubusercontent.com/106761534/222205140-e685415e-e09c-4636-9b91-187c00702851.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
